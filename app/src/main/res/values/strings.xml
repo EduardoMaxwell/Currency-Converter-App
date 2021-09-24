@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="how_much_label">Quanto é?</string>
+    <string name="hint_value">R$ 99.00</string>
+    <string name="radio_usd_radio_label">USD</string>
+    <string name="radio_eur_radio_label">EUR</string>
+    <string name="radio_clp_radio_label">CLP</string>
+</resources>
